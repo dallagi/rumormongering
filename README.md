@@ -2,12 +2,12 @@
 
 ## Compilation from sources
 
-Given a working (go installation)[http://golang.org/doc/install] the compilation procedure is just
+Given a working [go installation](http://golang.org/doc/install) the compilation procedure is
 
     ~ $ go get github.com/dallagi/rumormongering
 
-This downloads and compiles the project. The resulting binary will be bin/rumormongering
-Note that this requires a working (GOPATH)[https://golang.org/doc/code.html#GOPATH].
+This downloads and compiles the project. The resulting binary will be ```bin/rumormongering```
+Note that this requires a working [GOPATH](https://golang.org/doc/code.html#GOPATH).
 A precompiled binary version is available in the release tab.
 
 ## Generating the data
