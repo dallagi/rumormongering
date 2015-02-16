@@ -14,7 +14,7 @@ A precompiled binary version is available in the release tab.
 
 The ```gen_data.sh``` script is provided to generate the data used in the report.
 The script expects to be placed in the same folder as the program executable.
-The resulting csv files will be put in the results folder and will be named according to the {strategy}_{k}.csv patter.
+The resulting csv files will be put in the results folder and will be named according to the {strategy}_{k}.csv pattern.
 Due to the non-determinist nature of the simulation the data generated will be slightly different from the data used in the report.
 
     ~/test $ ls
